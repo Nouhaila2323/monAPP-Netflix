@@ -8,7 +8,7 @@
 
 ## :dart: About
 
-<p>This is a Web Movie Application, I create this app for learn develop application using React, Typescript, Vite, React Router, and Redux Toolkit</p>
+<p>This is a Web Movie Application, I created this app to learn how to develop applications using React, Typescript, Vite, React Router, and Redux Toolkit</p>
 
 <br>
 
@@ -22,7 +22,7 @@
 
 ## :floppy_disk: Source Data
 
-[Movie Database API](https://api.themoviedb.org)
+ here is the link of the API that i used : [Movie Database API](https://api.themoviedb.org)
 
 <br>
 
